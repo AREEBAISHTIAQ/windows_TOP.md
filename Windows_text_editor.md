@@ -11,7 +11,7 @@
 **Sublime Text** is a proprietary cross-platform source code editor, it support many programming languages and markup languages,**Sublime** Text has a powerful, Python API that allows plugins to augment built-in functionality,it has **Command Palette** that holds infrequently used functionality, like sorting, changing the syntax and changing the indentation settings. Sublime text allows you to make ten selection at a same time, it is light-weight and too much flexible, you can download it easily in your machine, it costs money but if you want to try it, you can download free trial of **Sublime text 3** from [here](https://www.sublimetext.com/3)
 
 ## Conclusion
-We suggest you to install **Visual Studio Code** because of its compatibility, fastest speed, great support and it's the best **Text Editor** for you and your machine.
+We recommend you to install **Visual Studio Code** because of its compatibility, fastest speed, great support and it's the best **Text Editor** for you and your machine.
 
 #### Installing VSCode in Windows
 + Download the [Visual Studio Code Installer](https://go.microsoft.com/fwlink/?linkID=534107) for windows
