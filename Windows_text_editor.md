@@ -19,7 +19,7 @@
 + **Visual Studio Code** is a nice balance between Atom and Sublime Text. It's generally faster and more flexible than atom and easier to use than sublime text.
 
 ## Conclusion
-We recommend you to install **Visual Studio Code** because of its compatibility, speed, great support but if you want to install **[Sublime]**(https://www.sublimetext.com/3) or **[Atom]**(https://www.techspot.com/downloads/6540-atom-text-editor.htm) you can easily install them.
+We recommend you to install **Visual Studio Code** because of its compatibility, speed, great support but if you want to install [**Sublime**](https://www.sublimetext.com/3) or [**Atom**](https://www.techspot.com/downloads/6540-atom-text-editor.htm) you can easily install them.
 
 #### Installing VSCode in Windows
 + Download the [Visual Studio Code Installer](https://go.microsoft.com/fwlink/?linkID=534107) for windows
