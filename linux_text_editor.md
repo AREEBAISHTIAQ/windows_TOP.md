@@ -36,5 +36,5 @@ However, We like to use **Visual Studio Code** because of it's great balance of 
 + If you wanted to know more about VSCode, Click [here](https://code.visualstudio.com/docs)
 
 ### Note:
-+ If you don't have snap, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu(`.deb`) file and you are done.
-+ If you're using any other linux distro, that is totally fine. You can use your distro's package manager and easily install any of these packages. 
++ If you don't have snap, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu(`.deb`) file or add the ppa.
++ If you're using any other linux distro, that is totally fine. You can use your distro's package manager and easily install any of these text editors.
