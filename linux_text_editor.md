@@ -20,13 +20,19 @@ Vi is a screen-oriented text editor originally created for the Unix operating sy
 ## TLDR
 + **Atom** is considered to be easiest to use.
 + **Sublime** Text is lightest and fastest performing due to being a natively written application.
-+ **Visual Studio Code** is a nice balance between Atom and Sublime Text.
++ **Visual Studio Code** is a nice balance between Atom and Sublime Text. It's generally faster and more flexible than atom and easier to use than sublime text.
 
 ## Conclusion
 
-### installing Text Editor for Linux
-if you want to install [sublime text](https://www.sublimetext.com/docs/3/linux_repositories.html) or [Atom](https://atom.io/) you can easily install them.but We recommend you to install **Visual Studio Code** because of its compatibility, speed, great support.
-+ to install vscode, run `sodu snap install vscode` in your terminal.
-+ If it gives error, try this `sodu snap install vscode --classic` in your terminal.
-+ And if you don't have snap, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu(`.deb`) file and you are done.
-if you wanted to know more about VSCode, Click [here](https://code.visualstudio.com/docs)
+### Installing Text Editor for Ubuntu Linux using snap
+If you want to install [sublime text](https://www.sublimetext.com/docs/3/linux_repositories.html) or [Atom](https://atom.io/) Here's how you do it:
+For Atom, Type: `sudo snap install atom` or `sudo snap install atom --classic` if that fails.
+For Sublime Text: sudo snap install sublime-text or `sudo snap install sublime-text --classic` if that fails.
+
+However, We like to use **Visual Studio Code** because of it's great balance of ease-of-use, compatibility and performance.
++ To install vscode, run `sodu snap install vscode` or `sudo snap install vscode --classic` if that fails.
++ If you wanted to know more about VSCode, Click [here](https://code.visualstudio.com/docs)
+
+### Note:
++ If you don't have snap, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu(`.deb`) file and you are done.
++ If you're using any other linux distro, that is totally fine. You can use your distro's package manager and easily install any of these packages. 
