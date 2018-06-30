@@ -26,8 +26,8 @@ Vi is a screen-oriented text editor originally created for the Unix operating sy
 
 ### Installing Text Editor for Ubuntu Linux using snap
 If you want to install [sublime text](https://www.sublimetext.com/docs/3/linux_repositories.html) or [Atom](https://atom.io/) Here's how you do it:
-For Atom, Type: `sudo snap install atom` or `sudo snap install atom --classic` if that fails.
-For Sublime Text: sudo snap install sublime-text or `sudo snap install sublime-text --classic` if that fails.
+      For Atom, Type: `sudo snap install atom` or `sudo snap install atom --classic` if that fails.
+      For Sublime Text: sudo snap install sublime-text or `sudo snap install sublime-text --classic` if that fails.
 
 However, We like to use **Visual Studio Code** because of it's great balance of ease-of-use, compatibility and performance.
 + To install vscode, run `sodu snap install vscode` or `sudo snap install vscode --classic` if that fails.
