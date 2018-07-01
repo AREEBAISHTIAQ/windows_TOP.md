@@ -32,9 +32,8 @@ For Atom, Type: `sudo snap install atom` or `sudo snap install atom --classic` i
 For Sublime Text: sudo snap install sublime-text or `sudo snap install sublime-text --classic` if that fails.
 
 However, We like to use **Visual Studio Code** because of it's great balance of ease-of-use, compatibility and performance.
-+ To install vscode, run `sodu snap install vscode` or `sudo snap install vscode --classic` if that fails.
-+ If you wanted to know more about VSCode, Click [here](https://code.visualstudio.com/docs)
++ To install vscode, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu( .deb ) file.
++ If you wanted to know more about VSCode, Click [here](https://code.visualstudio.com/docs).
 
 ### Note:
-+ If you don't have snap, click this [link](https://code.visualstudio.com/download) and select the debian, ubuntu(`.deb`) file or add the ppa.
 + If you're using any other linux distro, that is totally fine. You can use your distro's package manager and easily install any of these text editors.
